@@ -1,1 +1,771 @@
-{"remark":"This file is only used for quick deployment.","languages":[{"label":"English","value":"en_us"}],"packages":[{"language":"en_us","description":"[Paper] Minecraft 1.20.2 Paper","title":"Minecraft 1.20.2","runtime":"Java 22","hardware":"RAM 4G+","size":"150MB","remark":"Includes some basic plugins","targetLink":"https://cloud.alongw.cn/f/5XlSW/Paper-1.21.1.zip","author":"alongw.cn","setupInfo":{"type":"minecraft/java","startCommand":"java -jar server.jar -nogui","stopCommand":"stop","updateCommand":"","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Paper] Minecraft 1.20.1 Paper","title":"Minecraft 1.20.1","runtime":"Java 22","hardware":"RAM 4G+","size":"200MB","remark":"Includes some basic plugins","targetLink":"https://cloud.alongw.cn/f/jwjsl/Paper-1.20.1-EN.zip","author":"alongw.cn","setupInfo":{"type":"minecraft/java","startCommand":"java -jar server.jar -nogui","stopCommand":"stop","updateCommand":"","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.","title":"Forge 1.20.6 (Support Mods)","runtime":"Java 21+","hardware":"RAM 8G+","size":"7MB","remark":"Minecraft Forge","targetLink":"https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.6-50.0.8/forge-1.20.6-50.0.8-installer.jar","author":"minecraftforge.net","setupInfo":{"type":"minecraft/java/forge","startCommand":"sh ./run.sh","stopCommand":"stop","updateCommand":"java -jar forge-1.20.6-50.0.8-installer.jar --installServer","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.","title":"Forge 1.20.1 (Support Mods)","runtime":"Java 21+","hardware":"RAM 8G+","size":"7MB","remark":"Minecraft Forge","targetLink":"https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.32/forge-1.20.1-47.2.32-installer.jar","author":"minecraftforge.net","setupInfo":{"type":"minecraft/java/forge","startCommand":"sh ./run.sh","stopCommand":"stop","updateCommand":"java -jar forge-1.20.1-47.2.32-installer.jar --installServer","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.","title":"Forge 1.19.2 (Support Mods)","runtime":"Java 17+","hardware":"RAM 8G+","size":"7MB","remark":"Minecraft Forge","targetLink":"https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-installer.jar","author":"minecraftforge.net","setupInfo":{"type":"minecraft/java/forge","startCommand":"sh ./run.sh","stopCommand":"stop","updateCommand":"java -jar forge-1.19.2-43.3.13-installer.jar --installServer","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Fabric] Minecraft 1.14.4 Fabric","title":"Minecraft 1.14.4 with Fabric Loader","runtime":"Java 8+","hardware":"RAM 4G+","size":"5MB","remark":"Minecraft Fabric","targetLink":"https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar","author":"fabricmc.net","setupInfo":{"type":"minecraft/java/fabric","startCommand":"java -jar fabric-server-launch.jar -nogui","stopCommand":"stop","updateCommand":"java -jar fabric-installer-1.0.1.jar server -mcversion 1.14.4 -downloadMinecraft -noprofile","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Fabric] Minecraft 1.15.2 Fabric","title":"Minecraft 1.15.2 with Fabric Loader","runtime":"Java 8+","hardware":"RAM 4G+","size":"5MB","remark":"Minecraft Fabric","targetLink":"https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar","author":"fabricmc.net","setupInfo":{"type":"minecraft/java/fabric","startCommand":"java -jar fabric-server-launch.jar -nogui","stopCommand":"stop","updateCommand":"java -jar fabric-installer-1.0.1.jar server -mcversion 1.15.2 -downloadMinecraft -noprofile","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Fabric] Minecraft 1.16.5 Fabric","title":"Minecraft 1.16.5 with Fabric Loader","runtime":"Java 8+","hardware":"RAM 4G+","size":"5MB","remark":"Minecraft Fabric","targetLink":"https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar","author":"fabricmc.net","setupInfo":{"type":"minecraft/java/fabric","startCommand":"java -jar fabric-server-launch.jar -nogui","stopCommand":"stop","updateCommand":"java -jar fabric-installer-1.0.1.jar server -mcversion 1.16.5 -downloadMinecraft -noprofile","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Fabric] Minecraft 1.17.1 Fabric","title":"Minecraft 1.17.1 with Fabric Loader","runtime":"Java 16+","hardware":"RAM 4G+","size":"5MB","remark":"Minecraft Fabric","targetLink":"https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar","author":"fabricmc.net","setupInfo":{"type":"minecraft/java/fabric","startCommand":"java -jar fabric-server-launch.jar -nogui","stopCommand":"stop","updateCommand":"java -jar fabric-installer-1.0.1.jar server -mcversion 1.17.1 -downloadMinecraft -noprofile","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Fabric] Minecraft 1.18.2 Fabric","title":"Minecraft 1.18.2 with Fabric Loader","runtime":"Java 17+","hardware":"RAM 4G+","size":"5MB","remark":"Minecraft Fabric","targetLink":"https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar","author":"fabricmc.net","setupInfo":{"type":"minecraft/java/fabric","startCommand":"java -jar fabric-server-launch.jar -nogui","stopCommand":"stop","updateCommand":"java -jar fabric-installer-1.0.1.jar server -mcversion 1.18.2 -downloadMinecraft -noprofile","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Fabric] Minecraft 1.19.4 Fabric","title":"Minecraft 1.19.4 with Fabric Loader","runtime":"Java 17+","hardware":"RAM 4G+","size":"5MB","remark":"Minecraft Fabric","targetLink":"https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar","author":"fabricmc.net","setupInfo":{"type":"minecraft/java/fabric","startCommand":"java -jar fabric-server-launch.jar -nogui","stopCommand":"stop","updateCommand":"java -jar fabric-installer-1.0.1.jar server -mcversion 1.19.4 -downloadMinecraft -noprofile","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Fabric] Minecraft 1.20.6 Fabric","title":"Minecraft 1.20.6 with Fabric Loader","runtime":"Java 21+","hardware":"RAM 4G+","size":"5MB","remark":"Minecraft Fabric","targetLink":"https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar","author":"fabricmc.net","setupInfo":{"type":"minecraft/java/fabric","startCommand":"java -jar fabric-server-launch.jar -nogui","stopCommand":"stop","updateCommand":"java -jar fabric-installer-1.0.1.jar server -mcversion 1.20.6 -downloadMinecraft -noprofile","ie":"utf-8","oe":"utf-8"}},{"language":"en_us","description":"[Fabric] Minecraft 1.21.3 Fabric","title":"Minecraft 1.21.3 with Fabric Loader","runtime":"Java 21+","hardware":"RAM 4G+","size":"5MB","remark":"Minecraft Fabric","targetLink":"https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar","author":"fabricmc.net","setupInfo":{"type":"minecraft/java/fabric","startCommand":"java -jar fabric-server-launch.jar -nogui","stopCommand":"stop","updateCommand":"java -jar fabric-installer-1.0.1.jar server -mcversion 1.21.3 -downloadMinecraft -noprofile","ie":"utf-8","oe":"utf-8"}}]}
+{
+  "remark": "This file is only used for quick deployment.",
+  "languages": [
+    {
+      "label": "English",
+      "value": "en_us"
+    }
+  ],
+  "packages": [
+    {
+      "language": "en_us",
+      "description": "[Paper] Minecraft 1.20.2 Paper",
+      "title": "Minecraft 1.20.2",
+      "runtime": "Java 22",
+      "hardware": "RAM 4G+",
+      "size": "150MB",
+      "remark": "Includes some basic plugins",
+      "targetLink": "https://cloud.alongw.cn/f/5XlSW/Paper-1.21.1.zip",
+      "author": "alongw.cn",
+      "setupInfo": {
+        "type": "minecraft/java",
+        "startCommand": "java -jar server.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Paper] Minecraft 1.20.1 Paper",
+      "title": "Minecraft 1.20.1",
+      "runtime": "Java 22",
+      "hardware": "RAM 4G+",
+      "size": "200MB",
+      "remark": "Includes some basic plugins",
+      "targetLink": "https://cloud.alongw.cn/f/jwjsl/Paper-1.20.1-EN.zip",
+      "author": "alongw.cn",
+      "setupInfo": {
+        "type": "minecraft/java",
+        "startCommand": "java -jar server.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.",
+      "title": "Forge 1.20.6 (Support Mods)",
+      "runtime": "Java 21+",
+      "hardware": "RAM 8G+",
+      "size": "7MB",
+      "remark": "Minecraft Forge",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.6-50.0.8/forge-1.20.6-50.0.8-installer.jar",
+      "author": "minecraftforge.net",
+      "setupInfo": {
+        "type": "minecraft/java/forge",
+        "startCommand": "sh ./run.sh",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar forge-1.20.6-50.0.8-installer.jar --installServer",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.",
+      "title": "Forge 1.20.1 (Support Mods)",
+      "runtime": "Java 21+",
+      "hardware": "RAM 8G+",
+      "size": "7MB",
+      "remark": "Minecraft Forge",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.32/forge-1.20.1-47.2.32-installer.jar",
+      "author": "minecraftforge.net",
+      "setupInfo": {
+        "type": "minecraft/java/forge",
+        "startCommand": "sh ./run.sh",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar forge-1.20.1-47.2.32-installer.jar --installServer",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.",
+      "title": "Forge 1.19.2 (Support Mods)",
+      "runtime": "Java 17+",
+      "hardware": "RAM 8G+",
+      "size": "7MB",
+      "remark": "Minecraft Forge",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-installer.jar",
+      "author": "minecraftforge.net",
+      "setupInfo": {
+        "type": "minecraft/java/forge",
+        "startCommand": "sh ./run.sh",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar forge-1.19.2-43.3.13-installer.jar --installServer",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.14 Fabric",
+      "title": "Minecraft 1.14 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.14 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.14.1 Fabric",
+      "title": "Minecraft 1.14.1 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.14.1 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.14.2 Fabric",
+      "title": "Minecraft 1.14.2 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.14.2 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.14.3 Fabric",
+      "title": "Minecraft 1.14.3 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.14.3 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.14.4 Fabric",
+      "title": "Minecraft 1.14.4 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.14.4 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.15 Fabric",
+      "title": "Minecraft 1.15 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.15 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.15.1 Fabric",
+      "title": "Minecraft 1.15.1 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.15.1 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.15.2 Fabric",
+      "title": "Minecraft 1.15.2 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.15.2 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.16 Fabric",
+      "title": "Minecraft 1.16 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.16 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.16.1 Fabric",
+      "title": "Minecraft 1.16.1 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.16.1 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.16.2 Fabric",
+      "title": "Minecraft 1.16.2 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.16.2 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.16.3 Fabric",
+      "title": "Minecraft 1.16.3 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.16.3 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.16.4 Fabric",
+      "title": "Minecraft 1.16.4 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.16.4 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.16.5 Fabric",
+      "title": "Minecraft 1.16.5 with Fabric Loader",
+      "runtime": "Java 8+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.16.5 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.17 Fabric",
+      "title": "Minecraft 1.17 with Fabric Loader",
+      "runtime": "Java 16+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.17 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.17.1 Fabric",
+      "title": "Minecraft 1.17.1 with Fabric Loader",
+      "runtime": "Java 16+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.17.1 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.18 Fabric",
+      "title": "Minecraft 1.18 with Fabric Loader",
+      "runtime": "Java 17+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.18 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.18.1 Fabric",
+      "title": "Minecraft 1.18.1 with Fabric Loader",
+      "runtime": "Java 17+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.18.1 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.18.2 Fabric",
+      "title": "Minecraft 1.18.2 with Fabric Loader",
+      "runtime": "Java 17+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.18.2 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.19 Fabric",
+      "title": "Minecraft 1.19 with Fabric Loader",
+      "runtime": "Java 17+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.19 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.19.1 Fabric",
+      "title": "Minecraft 1.19.1 with Fabric Loader",
+      "runtime": "Java 17+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.19.1 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.19.2 Fabric",
+      "title": "Minecraft 1.19.2 with Fabric Loader",
+      "runtime": "Java 17+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.19.2 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.19.3 Fabric",
+      "title": "Minecraft 1.19.3 with Fabric Loader",
+      "runtime": "Java 17+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.19.3 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.19.4 Fabric",
+      "title": "Minecraft 1.19.4 with Fabric Loader",
+      "runtime": "Java 17+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.19.4 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.20 Fabric",
+      "title": "Minecraft 1.20 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.20 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.20.1 Fabric",
+      "title": "Minecraft 1.20.1 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.20.1 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.20.2 Fabric",
+      "title": "Minecraft 1.20.2 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.20.2 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.20.3 Fabric",
+      "title": "Minecraft 1.20.3 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.20.3 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.20.4 Fabric",
+      "title": "Minecraft 1.20.4 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.20.4 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.20.5 Fabric",
+      "title": "Minecraft 1.20.5 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.20.5 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.20.6 Fabric",
+      "title": "Minecraft 1.20.6 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.20.6 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.21 Fabric",
+      "title": "Minecraft 1.21 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.21 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.21.1 Fabric",
+      "title": "Minecraft 1.21.1 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.21.1 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.21.2 Fabric",
+      "title": "Minecraft 1.21.2 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.21.2 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "[Fabric] Minecraft 1.21.3 Fabric",
+      "title": "Minecraft 1.21.3 with Fabric Loader",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "5MB",
+      "remark": "Minecraft Fabric",
+      "targetLink": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+      "author": "fabricmc.net",
+      "setupInfo": {
+        "type": "minecraft/java/fabric",
+        "startCommand": "java -jar fabric-server-launch.jar -nogui",
+        "stopCommand": "stop",
+        "updateCommand": "java -jar fabric-installer-1.0.1.jar server -mcversion 1.21.3 -downloadMinecraft -noprofile",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    }
+  ]
+}
